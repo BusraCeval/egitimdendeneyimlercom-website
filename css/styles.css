@@ -1,0 +1,65 @@
+
+/*uzmanlıklar*/
+.gradient{
+    padding-top: 5px;
+    background: rgb(254,142,14);
+    background: linear-gradient(90deg, rgba(254,142,14,1) 0%, rgba(207,208,22,1) 33%, rgba(85,0,255,0.6278886554621849) 100%);
+}
+
+.section{
+    align-items: center;
+    justify-content: center;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-bottom: 3rem;
+    padding-bottom: 4rem;
+}
+/*uzmanlıklar bitiş*/
+
+/*Blog*/
+.featurette{
+    padding: 100px;
+}
+/*Blog Fınısh*/
+
+
+/*iletişim*/
+.about {
+    font-size: 0.82rem;
+}
+
+
+page-header{
+    font-size: 0.8rem;
+}
+ .photo{
+    height: 305px;
+ }
+
+
+.main{
+    background-color: white;
+}
+
+.contact{
+    background-color: white;
+    
+}
+
+.footer{
+    color:white;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+}
+
+/*iletişim fınısh*/
+/*Caorusel*/
+.page-header{
+    padding-top: 150px;
+}
+
+.page-header p{
+    font-size: 0.7rem;
+}
+/*Caorusel finish*/

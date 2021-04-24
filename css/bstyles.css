@@ -71,3 +71,4 @@ section1{
 .accordion-item:target.answer{
     max-height: 20rem;
 }
+

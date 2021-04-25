@@ -1,8 +1,6 @@
 html,
 body{
-    font-family: 'Arimo', sans-serif;
-    font-family: 'Ubuntu Mono', monospace;
-    font-family: 'Varela Round', sans-serif;
+    font-family: 'Nunito', sans-serif;
 }
 
 /*uzmanlıklar*/
@@ -19,6 +17,7 @@ body{
     margin-right: 5rem;
     margin-bottom: 3rem;
     padding-bottom: 4rem;
+    
 }
 /*uzmanlıklar bitiş*/
 
@@ -61,12 +60,7 @@ page-header{
 
 /*iletişim fınısh*/
 /*Caorusel*/
-.page-header{
-    padding-top: 150px;
-}
-
 .page-header p{
     font-size: 0.7rem;
 }
 /*Caorusel finish*/
-

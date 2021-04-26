@@ -9,66 +9,10 @@ html{
 }
 
 /*Section used for centering process*/
-section1{
+.section1{
     width: 100%;
     background: rgb(254,142,14);
     background: linear-gradient(90deg, rgba(254,142,14,1) 0%, rgba(207,208,22,1) 33%, rgba(85,0,255,0.6278886554621849) 100%);
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
-.blog-container{
-    width: 100%;
-    max-width: 40rem;
-    margin: 0 auto;
-    padding: 0 100 100 10rem;
-}
-
-.accordion-item{
-    background-color: rgba(157, 152, 158, 0.993);
-    border-radius: .4rem;
-    margin-bottom: 1rem;
-    padding: 1rem;
-    box-shadow: 5rem 2px .5rem rgba(112, 17, 156, 0.1);
-}
-
-
-.accordion-link .ion-md-remove{
-    display: none;
-}
-
-.accordion-link i{
-    color: #e7d5ff;
-    padding: .5rem;
-}
-
-.answer{
-    max-height: 0;
-    overflow: hidden;
-    position: relative;
-    background-color: #a2b119;  
-    transition: max-height 650ms;
-}
-
-.answer::before{
-    content: "";
-    position: absolute;
-    width: .6rem;
-    height: 90%;
-    background-color: #4005ad;
-    top: 50%;
-    left: 0;
-    transform: translateY(-50%);
-}
-
-.answer p{
-    color: #fff;
-    font-size: 1.4rem; 
-    padding: 2rem;
-}
-
-.accordion-item:target.answer{
-    max-height: 20rem;
-}
 

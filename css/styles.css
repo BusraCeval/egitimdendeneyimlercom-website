@@ -17,11 +17,11 @@ body{
 .section{
     align-items: center;
     justify-content: center;
-    margin-left: 5rem;
-    margin-right: 5rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
     margin-bottom: 3rem;
-    padding-bottom: 4rem;
-    
+    padding-bottom: 3rem;
+    font-size: smaller;
 }
 /*uzmanlıklar bitiş*/
 

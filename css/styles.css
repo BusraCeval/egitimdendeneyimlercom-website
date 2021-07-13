@@ -40,14 +40,12 @@ span{
     font-size: 0.82rem;
 }
 
-
-page-header{
+.page-header{
     font-size: 0.8rem;
 }
  .photo{
     height: 305px;
  }
-
 
 .main{
     background-color: white;
@@ -64,10 +62,9 @@ page-header{
     margin: 0;
     padding: 1rem;
 }
-
 /*iletişim fınısh*/
 /*Caorusel*/
 .page-header p{
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 }
 /*Caorusel finish*/

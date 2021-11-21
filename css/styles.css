@@ -3,6 +3,9 @@ body{
     font-family: 'Nunito', sans-serif;
 }
 
+#Anasayfa{
+    min-height: 100%;
+}
 /*uzmanlıklar*/
 .gradient{
     padding-top: 5px;
